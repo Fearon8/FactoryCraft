@@ -1,14 +1,15 @@
 package com.github.Fearon8.FactoryCraft.init;
 
-public class ModBlocks()
-{ 
-	public static Block SteelBlock = new BlockSteel();
-	
-	public static void init()
-    {
-     
+import com.github.Fearon8.FactoryCraft.blocks.BlockSteelBlock;
+import com.github.Fearon8.FactoryCraft.help.RegisterHelper;
 
-	RegisterHelper.registerBlock(SteelBlock);
+import net.minecraft.block.Block;
 
-    }
+public class ModBlocks {
+	public static Block SteelBlock = new BlockSteelBlock();  
+	  public static void init()
+      {
+            RegisterHelper.registerBlock(SteelBlock);
+      }
+
 }
