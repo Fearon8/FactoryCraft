@@ -1,3 +1,8 @@
 item.SteelIngot.name=Steel Ingot
+item.SteelPick.name=Steel PickAxe
+item.SteelAxe.name=Steel Axe
+item.SteelSword.name=Steel Sword
+item.SteelShovel.name=Steel Shovel
+item.handleSteel.name=Handle Steel
 tile.SteelBlock.name=Block of Steel
 itemGroup.tabFactoryCraft=FactoryCraft
