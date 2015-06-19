@@ -4,8 +4,8 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import crafting.ModRecipes;
 
+import com.github.Fearon8.FactoryCraft.crafting.ModRecipes;
 import com.github.Fearon8.FactoryCraft.help.Reference;
 import com.github.Fearon8.FactoryCraft.init.ModBlocks;
 import com.github.Fearon8.FactoryCraft.init.ModItems;

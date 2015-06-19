@@ -1,4 +1,4 @@
-package crafting;
+package com.github.Fearon8.FactoryCraft.crafting;
 
 import net.minecraft.item.ItemStack;
 import com.github.Fearon8.FactoryCraft.init.ModBlocks;
