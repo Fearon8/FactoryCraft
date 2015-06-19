@@ -1,34 +1,51 @@
-[22:16:22] [main/INFO]: Setting user: Player296
-[22:16:24] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:16:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FactoryCraft
-[22:16:36] [Sound Library Loader/INFO]: Sound engine started
-[22:16:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:16:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:16:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FactoryCraft
-[22:16:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:16:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:16:39] [Sound Library Loader/INFO]: Sound engine started
-[22:16:46] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:16:46] [Server thread/INFO]: Generating keypair
-[22:16:47] [Server thread/INFO]: Preparing start region for level 0
-[22:16:48] [Server thread/INFO]: Preparing spawn area: 81%
-[22:16:48] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:16:49] [Server thread/INFO]: Player296[local:E:a9d77749] logged in with entity id 170 at (1369.9166290788194, 4.0, -341.30000001192093)
-[22:16:49] [Server thread/INFO]: Player296 joined the game
-[22:16:53] [Server thread/INFO]: Saving and pausing game...
-[22:16:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:16:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:16:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:17:32] [Server thread/INFO]: Player296 has just earned the achievement [Taking Inventory]
-[22:17:32] [Client thread/INFO]: [CHAT] Player296 has just earned the achievement [Taking Inventory]
-[22:17:39] [Server thread/INFO]: Saving and pausing game...
-[22:17:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:17:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:17:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:17:40] [Server thread/INFO]: Stopping server
-[22:17:40] [Server thread/INFO]: Saving players
-[22:17:40] [Server thread/INFO]: Saving worlds
-[22:17:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:17:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:17:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:17:42] [Client thread/INFO]: Stopping!
+[00:36:18] [main/INFO]: Setting user: Player478
+[00:36:20] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:36:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FactoryCraft
+[00:36:33] [Sound Library Loader/INFO]: Sound engine started
+[00:36:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:36:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:36:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FactoryCraft
+[00:36:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:36:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:36:38] [Sound Library Loader/INFO]: Sound engine started
+[00:37:35] [Client thread/INFO]: Stopping!
+715
+[00:37:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:37:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FactoryCraft
+[00:37:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:37:46] [Sound Library Loader/INFO]: Sound engine started
+[00:37:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:37:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FactoryCraft
+[00:37:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:37:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:37:49] [Sound Library Loader/INFO]: Sound engine started
+[00:37:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:37:59] [Server thread/INFO]: Generating keypair
+[00:37:59] [Server thread/INFO]: Preparing start region for level 0
+[00:38:00] [Server thread/INFO]: Preparing spawn area: 96%
+[00:38:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:38:07] [Server thread/INFO]: Stopping server
+[00:38:07] [Server thread/INFO]: Saving players
+[00:38:07] [Server thread/INFO]: Saving worlds
+[00:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:38:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:38:08] [Server thread/INFO]: Generating keypair
+[00:38:08] [Server thread/INFO]: Preparing start region for level 0
+[00:38:09] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:38:09] [Server thread/INFO]: Player715[local:E:52ea03d6] logged in with entity id 380 at (1357.5, 4.0, -350.5)
+[00:38:09] [Server thread/INFO]: Player715 joined the game
+[00:38:19] [Server thread/INFO]: Player715 has just earned the achievement [Taking Inventory]
+[00:38:19] [Client thread/INFO]: [CHAT] Player715 has just earned the achievement [Taking Inventory]
+[00:38:52] [Server thread/INFO]: Saving and pausing game...
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:38:52] [Server thread/INFO]: Stopping server
+[00:38:52] [Server thread/INFO]: Saving players
+[00:38:52] [Server thread/INFO]: Saving worlds
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:38:55] [Client thread/INFO]: Stopping!
