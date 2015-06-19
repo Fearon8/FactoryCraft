@@ -4,6 +4,7 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import crafting.ModRecipes;
 
 import com.github.Fearon8.FactoryCraft.help.Reference;
 import com.github.Fearon8.FactoryCraft.init.ModBlocks;
@@ -22,7 +23,7 @@ public class FactoryCraft {
     @Mod.EventHandler
     public void Init(FMLInitializationEvent event)
     {
-
+    	ModRecipes.init();
     }
     
     @Mod.EventHandler

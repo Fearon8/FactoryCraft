@@ -7,9 +7,9 @@ import net.minecraft.item.Item;
 
 public class ModItems {
 	
-	   public static Item SteelIngot = new FactoryCraftItem().setUnlocalizedName("SteelIngot");
+	public static Item SteelIngot = new FactoryCraftItem().setUnlocalizedName("SteelIngot");
 	
-	public static void init()
+		public static void init()
      {
 		 RegisterHelper.registerItem(SteelIngot);
      }
