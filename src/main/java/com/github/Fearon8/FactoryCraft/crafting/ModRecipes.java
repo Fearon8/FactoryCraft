@@ -12,8 +12,11 @@ public class ModRecipes {
 
 	public static void init() 
 	{
+		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.pureCarbonDust), new Object[]
+				{new ItemStack(ModItems.rawCarbonDust), new ItemStack(Items.water_bucket)});
+		
 		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelIngot), new Object[]
-				{"A A","ABA","A A",'A',Items.coal,'B', Items.iron_ingot});
+				{" A ","ABA"," A ",'A',ModItems.pureCarbonDust,'B', Items.iron_ingot});
 		
 		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.SteelIngot, 9), new Object[]
 				{new ItemStack(ModBlocks.steelBlock)});
