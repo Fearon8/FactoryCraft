@@ -17,3 +17,5 @@
 /saves
 .options
 .usernamecache
+usernamecache.json
+options.txt
