@@ -12,13 +12,16 @@ public class ModRecipes {
 
 	public static void init() 
 	{
-		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.SteelBlock), new Object[] 
-				{"AAA", "AAA", "AAA", 'A', ModItems.SteelIngot});
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelIngot), new Object[]
+				{"AAA","ABA","AAA",'A',Items.coal,'B', Items.iron_ingot});
 		
 		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.SteelIngot, 9), new Object[]
 				{new ItemStack(ModBlocks.SteelBlock)});
 		
-		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelPickAxe), new Object[]
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.SteelBlock), new Object[] 
+				{"AAA", "AAA", "AAA", 'A', ModItems.SteelIngot});
+		
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelPickaxe), new Object[]
 			    {"AAA"," B ","CBC",'A', ModItems.SteelIngot, 'B', ModItems.handleSteel,'C', Items.slime_ball});
 	
 		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelAxe), new Object[]
@@ -32,8 +35,6 @@ public class ModRecipes {
 		
 		GameRegistry.addShapedRecipe(new ItemStack(ModItems.handleSteel), new Object[]
 	    		{"  A", " A ", "A  ", 'A', ModItems.SteelIngot});
-	
-	
 	}
 	
 }

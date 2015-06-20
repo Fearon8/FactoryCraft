@@ -4,6 +4,6 @@ public class Reference {
 	
 	public static final String MODID = "fearon8_factorycraft";
     public static final String NAME = "FactoryCraft";
-    public static final String VERSION = "0.0.1";
+    public static final String VERSION = "0.0.2";
 
 }
