@@ -11,3 +11,7 @@
 /bin/
 .project
 .classpath
+/.metadata
+/config
+/logs
+/saves
