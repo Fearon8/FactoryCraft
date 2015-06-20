@@ -15,5 +15,5 @@
 /config
 /logs
 /saves
-/options
-/usernamecache
+.options
+.usernamecache

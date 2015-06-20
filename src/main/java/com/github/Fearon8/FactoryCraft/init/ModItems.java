@@ -12,14 +12,17 @@ public class ModItems {
 	
 	public static Item SteelIngot = new FactoryCraftItem().setUnlocalizedName("SteelIngot");
 	public static Item handleSteel = new FactoryCraftItem().setUnlocalizedName("handleSteel");
+	public static Item anthracite = new FactoryCraftItem().setUnlocalizedName("anthracite");
 	public static Item SteelSword = new ItemFactoryCraftSword(STEEL).setUnlocalizedName("SteelSword");
     public static Item SteelPickaxe = new ItemFactoryCraftPickaxe(STEEL).setUnlocalizedName("SteelPickaxe");
 	public static Item SteelShovel = new ItemFactoryCraftShovel(STEEL).setUnlocalizedName("SteelShovel");
 	public static Item SteelAxe = new ItemFactoryCraftAxe(STEEL).setUnlocalizedName("SteelAxe");
-	    public static void init()
+          
+	  public static void init()
 	      {
 	    	RegisterHelper.registerItem(SteelIngot);
 	    	RegisterHelper.registerItem(handleSteel);
+	    	RegisterHelper.registerItem(anthracite);
 	        RegisterHelper.registerItem(SteelSword);
 	        RegisterHelper.registerItem(SteelPickaxe);
 	        RegisterHelper.registerItem(SteelShovel);

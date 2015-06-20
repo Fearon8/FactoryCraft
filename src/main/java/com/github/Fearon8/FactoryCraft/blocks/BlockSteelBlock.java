@@ -8,7 +8,7 @@ import net.minecraft.block.material.Material;
 public class BlockSteelBlock extends Block
 { 
 	public BlockSteelBlock()
-    {
+     {
             super(Material.iron);
             setBlockName("SteelBlock");
             setBlockTextureName(Reference.MODID + ":" + getUnlocalizedName().substring(5));
@@ -20,3 +20,4 @@ public class BlockSteelBlock extends Block
      }
 
 }
+

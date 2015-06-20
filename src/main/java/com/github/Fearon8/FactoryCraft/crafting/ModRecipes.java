@@ -13,12 +13,12 @@ public class ModRecipes {
 	public static void init() 
 	{
 		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelIngot), new Object[]
-				{"AAA","ABA","AAA",'A',Items.coal,'B', Items.iron_ingot});
+				{"A A","ABA","A A",'A',Items.coal,'B', Items.iron_ingot});
 		
 		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.SteelIngot, 9), new Object[]
-				{new ItemStack(ModBlocks.SteelBlock)});
+				{new ItemStack(ModBlocks.steelBlock)});
 		
-		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.SteelBlock), new Object[] 
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.steelBlock), new Object[] 
 				{"AAA", "AAA", "AAA", 'A', ModItems.SteelIngot});
 		
 		GameRegistry.addShapedRecipe(new ItemStack(ModItems.SteelPickaxe), new Object[]

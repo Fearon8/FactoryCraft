@@ -4,5 +4,5 @@ item.SteelAxe.name=Steel Axe
 item.SteelSword.name=Steel Sword
 item.SteelShovel.name=Steel Shovel
 item.handleSteel.name=Handle Steel
-tile.SteelBlock.name=Steel Block
+tile.steelBlock.name=Steel Block
 itemGroup.tabFactoryCraft=FactoryCraft
