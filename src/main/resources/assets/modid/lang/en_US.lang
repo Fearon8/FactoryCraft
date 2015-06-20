@@ -1,8 +1,10 @@
+item.anthracite.name=Athracite 
 item.SteelIngot.name=Steel Ingot
 item.SteelPickaxe.name=Steel Pickaxe
 item.SteelAxe.name=Steel Axe
 item.SteelSword.name=Steel Sword
 item.SteelShovel.name=Steel Shovel
 item.handleSteel.name=Handle Steel
+tile.anthraciteOre.name=Anthracite Ore
 tile.steelBlock.name=Steel Block
 itemGroup.tabFactoryCraft=FactoryCraft
