@@ -10,7 +10,7 @@ public class BlockSteelBlock extends Block
 	public BlockSteelBlock()
      {
             super(Material.iron);
-            setBlockName("SteelBlock");
+            setBlockName("steelBlock");
             setBlockTextureName(Reference.MODID + ":" + getUnlocalizedName().substring(5));
             setStepSound(soundTypeMetal);
             setHardness(2.5F);

@@ -1,24 +1,25 @@
 package com.github.Fearon8.FactoryCraft.init;
 
+import net.minecraft.client.renderer.texture.IIconRegister;
+import net.minecraft.item.ItemAxe;
 import com.github.Fearon8.FactoryCraft.help.Reference;
 import com.github.Fearon8.FactoryCraft.tabs.ModTabs;
+
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-import net.minecraft.client.renderer.texture.IIconRegister;
-import net.minecraft.item.ItemPickaxe;
 
-public class ItemFactoryCraftPickaxe extends ItemPickaxe
+public class ItemFactoryCraftHammer extends ItemAxe
 {
   public final ToolMaterial toolMaterial;
-    
-    public ItemFactoryCraftPickaxe(ToolMaterial EnumToolMaterial)
+	
+	public ItemFactoryCraftHammer( ToolMaterial EnumToolMaterial)
     {
         super(EnumToolMaterial);
         toolMaterial = EnumToolMaterial;
         setCreativeTab(ModTabs.tabFactoryCraft);
     }
-    
-    @Override
+	
+	@Override
     @SideOnly(Side.CLIENT)
     public void registerIcons(IIconRegister par1IconRegister)
     {

@@ -1,10 +1,15 @@
 item.anthracite.name=Anthracite 
+item.rawCarbonDust.name=Raw Carbon Dust
+item.pureCarbonDust.name=Pure Carbon Dust
 item.SteelIngot.name=Steel Ingot
 item.SteelPickaxe.name=Steel Pickaxe
+item.steelHammer.name=Steel Hammer[WIP]
 item.SteelAxe.name=Steel Axe
 item.SteelSword.name=Steel Sword
 item.SteelShovel.name=Steel Shovel
 item.handleSteel.name=Handle Steel
 tile.anthraciteOre.name=Anthracite Ore
+tile.anthraciteBlock.name=Anthracite Block
 tile.steelBlock.name=Steel Block
+tile.blastFurnace.name=Blast Furnace[WIP]
 itemGroup.tabFactoryCraft=FactoryCraft

@@ -11,9 +11,9 @@ import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;
 import net.minecraft.world.World;
 
-public class BlockanthraciteOre extends Block
+public class BlockAnthraciteOre extends Block
 {
-	public BlockanthraciteOre() 
+	public BlockAnthraciteOre() 
 	 {
 	       super(Material.iron);
 	       setBlockName("anthraciteOre");
@@ -21,7 +21,7 @@ public class BlockanthraciteOre extends Block
            setStepSound(soundTypeStone);
            setHardness(2.0F);
            setResistance(9.0F);
-           setHarvestLevel("pickaxe", 2);
+           setHarvestLevel("pickaxe", 3);
            setCreativeTab(ModTabs.tabFactoryCraft);
 	 }
 	

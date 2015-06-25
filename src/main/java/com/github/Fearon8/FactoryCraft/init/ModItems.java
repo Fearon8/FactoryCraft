@@ -7,8 +7,9 @@ import net.minecraft.item.Item.ToolMaterial;
 import net.minecraftforge.common.util.EnumHelper;
 
 public class ModItems {
-
+	
     static ToolMaterial STEEL = EnumHelper.addToolMaterial("STEEL", 3, 2048, 9.0F, 4.0F, 14);
+    static ToolMaterial STEELHAMMER = EnumHelper.addToolMaterial("STEELHAMMER", 3, 1024, 5.0F, 0.5F, 0);
 	
 	public static Item SteelIngot = new FactoryCraftItem().setUnlocalizedName("SteelIngot");
 	public static Item handleSteel = new FactoryCraftItem().setUnlocalizedName("handleSteel");
@@ -19,6 +20,7 @@ public class ModItems {
     public static Item SteelPickaxe = new ItemFactoryCraftPickaxe(STEEL).setUnlocalizedName("SteelPickaxe");
 	public static Item SteelShovel = new ItemFactoryCraftShovel(STEEL).setUnlocalizedName("SteelShovel");
 	public static Item SteelAxe = new ItemFactoryCraftAxe(STEEL).setUnlocalizedName("SteelAxe");
+	public static Item steelHammer = new ItemFactoryCraftHammer(STEELHAMMER).setUnlocalizedName("steelHammer");
           
 	  public static void init()
 	      {
@@ -27,7 +29,7 @@ public class ModItems {
 	    	RegisterHelper.registerItem(pureCarbonDust);
 		    RegisterHelper.registerItem(SteelIngot);
 	    	RegisterHelper.registerItem(handleSteel);
-	    	RegisterHelper.registerItem(anthracite);
+	    	RegisterHelper.registerItem(steelHammer);
 	        RegisterHelper.registerItem(SteelSword);
 	        RegisterHelper.registerItem(SteelPickaxe);
 	        RegisterHelper.registerItem(SteelShovel);
